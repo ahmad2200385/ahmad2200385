@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ahmad Raza  
 
-🚀 **Full Stack Developer , Backend Developer | FastAPI | Real-time Systems**  
+🚀 **Backend Developer | FastAPI | Real-time Systems**  
 💻 Building scalable projects like Industrial Dashboard  
 ☁️ Exploring Cloud (AWS) & Containerization (Docker)  
 
@@ -49,7 +49,7 @@
 ---
 
 ## 📈 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad220385&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad2200385&layout=compact&theme=tokyonight)  
 
 ---
 
