@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/ahmad-raza2200385)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ahmad-raza2200385/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/ahmad2200385)  
 
 ---
